@@ -51,6 +51,7 @@ The analysis uses customer records containing a churn indicator (Exited), record
 ### Dashboard Design
 ---
 <img width="948" height="525" alt="Bank churn 1" src="https://github.com/user-attachments/assets/19f2e580-8386-4bcb-a737-ea59da2c5cd5" />
+
 - Executive Overview: customer count, churned customers, churn rate and retention overview.
 - Churn Drivers & Customer Behaviour: compare churn rates by age, activity, geography, product count and other available characteristics.
 - Customer Risk & Segment Prioritisation: distinguish high-rate segments from high-volume segments.
