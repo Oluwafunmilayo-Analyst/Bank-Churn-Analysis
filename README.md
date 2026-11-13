@@ -19,7 +19,7 @@
 ### Executive Summary:
 ---
 This analysis examines customer churn in ABC Bank Nig.  using 10,000 customer records. It aims to identify customer groups associated with higher churn, compare the scale of departures across segments, and outline next steps for evidence-led retention planning. The recorded overall churn rate is 20.37%.
-Inactive customers have a higher churn rate than active customers. Customers aged 50–59 have the highest age-group churn rate, while customers aged 40–49 account for the largest number of departures. A high rate and a high count answer different business questions. Findings are descriptive signals for investigation, not proof of why customers left.82
+Inactive customers have a higher churn rate than active customers. Customers aged 50–59 have the highest age-group churn rate, while customers aged 40–49 account for the largest number of departures. A high rate and a high count answer different business questions. Findings are descriptive signals for investigation, not proof of why customers left.
 
 ### Business objective:
 ---
