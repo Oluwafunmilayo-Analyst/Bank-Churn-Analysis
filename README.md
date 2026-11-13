@@ -50,7 +50,7 @@ The analysis uses customer records containing a churn indicator (Exited), record
   
 ### Dashboard Design
 ---
-
+<img width="948" height="525" alt="Bank churn 1" src="https://github.com/user-attachments/assets/19f2e580-8386-4bcb-a737-ea59da2c5cd5" />
 - Executive Overview: customer count, churned customers, churn rate and retention overview.
 - Churn Drivers & Customer Behaviour: compare churn rates by age, activity, geography, product count and other available characteristics.
 - Customer Risk & Segment Prioritisation: distinguish high-rate segments from high-volume segments.
@@ -112,4 +112,4 @@ The analysis provides a structured view of customer churn and identifies segment
 |N50,001-N100,000| 1,509| 300| 19.88%|
 |N0(zero balance)| 3,617| 500| 13.82%|
 
-[Click here to view the full project](https://drive0googlecom/drive/folders/1dHzuaXCQ5MtJJmRbPFLukkm9dt2frPah?usp=drive_link)
+[Click here to view the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ5YjJlNWYtM2E3OS00Y2E0LWJmZjEtNmVjY2FiNmJhZGVjIiwidCI6ImNkYjdmNzc3LTc0ODUtNGQ0Mi1iY2U5LTdkMTc0YzVjMTkyOSIsImMiOjh9)
